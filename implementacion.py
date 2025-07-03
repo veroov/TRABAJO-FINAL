@@ -13,4 +13,4 @@ if existe:
     usuario.rol = rol
     print(usuario)
 else:
-    print("Credenciales incorrectas.")
+    print("El usuario no existe o las credenciales son incorrectas.")
